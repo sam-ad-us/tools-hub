@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Abstract digital tools background",
+      "imageUrl": "https://images.unsplash.com/photo-1604011237320-8e0506614fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY2OTg2OTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "about-us",
+      "description": "A diverse team collaborating in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjY5NzU4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "contact-us",
+      "description": "A person typing on a laptop with a contact icon overlay.",
+      "imageUrl": "https://images.unsplash.com/photo-1764449319766-88a7942935e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb250YWN0JTIwc3VwcG9ydHxlbnwwfHx8fDE3NjcwNzM3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "contact support"
+    }
+  ]
 }
